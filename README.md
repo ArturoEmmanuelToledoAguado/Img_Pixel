@@ -30,7 +30,7 @@ En donde 'variable' representa la variable que contiene a la imágen, 'nombre de
 ## Resultados
 Una vez que se han obtenido las partes de interes de cada imágen se procede a mostrarlas
 
-<img src="lib/Assets/PartImg.jpg">
+![imagenesjpg](Lib/Assets/PartImg.jpg)
 
 Para lograr poner las cuatro imágenes en una sola ventana de matlab se uso la función <a href="https://la.mathworks.com/help/matlab/ref/subplot.html">**subplot()**</a>, gracias a esta función se puede dividir la ventana en una cuadrícula de **m** por **n** creando ejes en la posición que especifica **p**
 
@@ -42,6 +42,6 @@ Para la obtención de los pixeles aleatorios se uso la función <a href="https:/
 
 Tras obtener los pixeles aleatorios los mostramos y obtenemos sus valores en el plano **RGB** quedando de la siguiente forma
 
-<img src="lib/Assets/PixDat.jpg">
+![imagenesjpg](Lib/Assets/PixDat.jpg)
 
-<a href="https://github.com/ArturoEmmanuelToledoAguado/RGB2BW">Código</a>
+<a href="https://github.com/ArturoEmmanuelToledoAguado/Img_Pixel">Código</a>
